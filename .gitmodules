@@ -1,0 +1,3 @@
+[submodule "mou2"]
+	path = mou2
+	url = https://github.com/Alixe-code/moduleTest2.git
